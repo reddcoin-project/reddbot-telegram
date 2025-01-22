@@ -1,0 +1,10 @@
+APScheduler==3.6.3
+python-telegram-bot==13.15
+requests==2.32.3
+pyqrcode==1.2.1
+pypng==0.20220715.0
+Pillow==10.4.0
+tzlocal==5.2
+SQLAlchemy==1.4.53
+mysql-connector-python==9.0.0
+redis==5.0.8
